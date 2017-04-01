@@ -12,7 +12,7 @@ router.get('/', function(req, res, next) {
 	//
 	//	1.	Path to the movie to stream
 	//
-	let file = 'https://c19.vidlox.tv/oudvgj75kvtk2yixv6yoedrnc2swoyyogqjuf2nu4uvzhe3kqetqkkg2raba/v.mp4';
+	let file = 'https://p-def2.pcloud.com/cfZGrYgbkZDKrkMkZTvUxZZ7U5l67ZQ5ZZ0JFZZWGzNOZgVZiZbVZ2kZ6kZBVZFXZeXZUXZzZykZRkZNXZWXZqXuU9SrxFjXFlgk5OB3P5SKYbY0y/Dangal.2016.Hindi.720p.DESIPDVD.x264.ShAaNiG.mp4';
 
 	//
 	//	2.	Get meta information from the file. In this case we are interested
