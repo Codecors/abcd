@@ -12,7 +12,7 @@ router.get('/', function(req, res, next) {
 	//
 	//	1.	Path to the movie to stream
 	//
-	let file = './public/toystory.mp4';
+	let file = 'https://c19.vidlox.tv/oudvgj75kvtk2yixv6yoedrnc2swoyyogqjuf2nu4uvzhe3kqetqkkg2raba/v.mp4';
 
 	//
 	//	2.	Get meta information from the file. In this case we are interested
